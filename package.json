@@ -1,0 +1,15 @@
+{
+  "name": "gulp_tools",
+  "version": "1.0.0",
+  "description": "gulp工具箱",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "copyking",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "uuid": "^11.1.0"
+  }
+}
