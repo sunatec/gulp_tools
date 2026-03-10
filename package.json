@@ -9,6 +9,7 @@
   "author": "copyking",
   "license": "ISC",
   "devDependencies": {
+    "exceljs": "^4.4.0",
     "gulp": "^4.0.2",
     "uuid": "^11.1.0"
   }
